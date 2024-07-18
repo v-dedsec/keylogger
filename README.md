@@ -4,4 +4,6 @@
 
 <p>commands needed after installing python3</p><br>
 
-# Pip install pynput
+# Pip install pynput <br>
+
+<h5>When windows difender block your keylogger you have to click allow</h5>
